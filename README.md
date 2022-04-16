@@ -1,6 +1,5 @@
 # PDF to Audiobook
-A Python script that takes a PDF file and converts it into speech.
-
+A script that takes a PDF file, identifies the text and converts the text to speech, effectively creating a free audiobook using HTTP requests, APIs, and Python scripting.
 
 ![pdftoaudio](pdftoaudio.png)
 
